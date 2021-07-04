@@ -5,7 +5,7 @@ And also shows how to deploy the web app on Heroku cloud platform. To do this we
 The [deployed stock price web app](https://milestone-streamlit-heroku.herokuapp.com/) 
 that can be used for checking monthly stock prices of Amazon (AMZN) since 2000.
 
-## Step 1: Streamlit APP
+## Step 1: Streamlit app
 - Fork a cloned repository from [The Data Incubator](https://github.com/thedataincubator/streamlit-framework) to use some of the default settings of `Procfile`, `requirements.txt`, and `setup.py`. 
 - pip install streamlit
 - import python liberaries into `app.py`
