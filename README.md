@@ -35,3 +35,4 @@ A [finished example](https://streamlit-12day-example.herokuapp.com/) that demons
 - Plotly provides a range of APIs in their library. Plotly express, for instance, can be used to create commonly used plots. The Graph Objects API affords more customization, but is more complicated to use. Here is the [documentation](https://plotly.com/python/plotly-express/#gallery) for Plotly Express.
 "# stock-tick-price-streamlit-heroku" 
 "# milestone_streamlit_heroku" 
+"# milestone_streamlit_heroku" 
