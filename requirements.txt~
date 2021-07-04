@@ -4,5 +4,4 @@ plotly
 python-dotenv
 altair
 bokeh
-datetime
 requests
