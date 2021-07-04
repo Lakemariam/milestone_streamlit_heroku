@@ -9,6 +9,7 @@ that can be used for checking monthly stock prices of Amazon (AMZN) since 2000.
 - Fork a cloned repository from [The Data Incubator](https://github.com/thedataincubator/streamlit-framework) to use some of the default settings of `Procfile`, `requirements.txt`, and `setup.py`. 
 - pip install streamlit
 - import python liberaries into `app.py`
+- download data, read it, have a pandas dataframe, streamlit function, plot, and then 
 - streamlit run `app.py`
 
 ## Step 2: Create Heroku Account
