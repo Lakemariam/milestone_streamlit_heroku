@@ -37,7 +37,6 @@ df = df.iloc[::-1]
 # Plot the stock price data
 
 fig = px.line(df['High'])
-#fig = go.Figure(go.Candlestick(open=df['Open'], high=df['High'], low=df['Low'], close=df['Close']))
 fig.update_layout(
     title="Amazon Stock Historical Price Data",
     xaxis_title="Date",
@@ -49,8 +48,6 @@ fig.update_layout(
         color="Blue"
     )
 )
-
-#st.write('Stock price')
 
 st.plotly_chart(fig, use_container_width=False)
 progress_bar = st.progress(0)
